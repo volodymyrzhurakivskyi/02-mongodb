@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "http-errors": "^2.0.1",
+    "mongoose": "^9.9.4"
+  }
+}
